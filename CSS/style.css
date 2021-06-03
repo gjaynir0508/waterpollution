@@ -398,7 +398,7 @@ footer p {
 }
 
 .flex-a div {
-    min-width: 400px;
+    min-width: 350px;
 }
 
 .definition .flex-a #paragraphs {
@@ -417,7 +417,7 @@ footer p {
 }
 
 .divisions{
-    min-width: 400px;
+    min-width: 350px;
     margin: 0.5rem;
 }
 
